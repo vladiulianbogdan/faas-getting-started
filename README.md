@@ -1,2 +1,2 @@
 # faas-getting-started
-A getting started template for Genezio Function
+A getting started template for Genezio Functions
