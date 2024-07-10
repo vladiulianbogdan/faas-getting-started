@@ -13,6 +13,9 @@ backend:
     name: js
     # The package manager used by the backend.
     packageManager: npm
+  scripts:
+    deploy:
+      - npm install
   # Information about the backend's functions.
   functions:
     # The name (label) of the function.
